@@ -1,5 +1,5 @@
 "use client"
-import { FaGithub, FaLinkedin, FaEnvelope, FaNodeJs, FaReact, FaDatabase } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaEnvelope, FaNodeJs, FaReact } from "react-icons/fa";
 import { SiExpress, SiFirebase, SiMongodb, SiNextdotjs, SiLua, SiApachegroovy } from "react-icons/si";
 
 
